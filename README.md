@@ -105,4 +105,4 @@ plt.show()
 
 
 ### Result:
-Thus 
+Thus the Cluster and Visitor Segmentation for Navigation patterns are executed successfully
